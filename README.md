@@ -10,5 +10,6 @@ https://github.com/nkjzm/QuestSamples/releases
 ## Environment
 
 - Unity 2018.3.14f1
-- Oculus Utilities Plugin 1.32.0
+- Oculus Integration for Unity - 1.37
+  - Oculus Utilities Plugin 1.32.0
 - Mac OSX 10.14.4（18E226）
